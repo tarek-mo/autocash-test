@@ -1,5 +1,7 @@
 # AutoCash Test
 
+<img width="1686" height="1079" alt="image" src="https://github.com/user-attachments/assets/660c3f7c-0698-4b58-a31b-98ebde3f1337" />
+
 ## Getting Started
 
 Follow these instructions to run the application on your local machine.
